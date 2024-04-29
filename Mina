@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+
+<html lang="ar">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>مكتبة مارمينا</title>
+
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+    <header>
+
+        <h1>مكتبة مارمينا</h1>
+
+        <nav>
+
+            <ul>
+
+                <li><a href="#home">الصفحة الرئيسية</a></li>
+
+                <li><a href="#products">المنتجات</a></li>
+
+                <li><a href="#contact">اتصل بنا</a></li>
+
+            </ul>
+
+        </nav>
+
+    </header>
+
+
+
+    <section id="home" style="border: blue ; border-width:10px; border-style:outset;">
+
+        <h2>مرحبًا بك في مكتبة مارمينا</h2>
+
+      <div id="myDiv" <p>نحن نقدم مجموعة واسعة من الهدايا المميزة والمنتجات الفريدة. استمتع بتجربة تسوق ممتعة!</p> </div>
+
+    </section>
+
+
+
+    <section id="products">
+
+        <h2>المنتجات</h2>
+
+        <!-- Add your product listings here -->
+
+    </section>
+
+
+
+    <section id="contact">
+
+        <h2>اتصل بنا</h2>
+
+        <p>يمكنك التواصل معنا عبر البريد الإلكتروني أو الهاتف:</p>
+
+        <ul>
+
+            <li>البريد الإلكتروني: info@marmena.com</li>
+
+            <li>رقم الهاتف: +123456789</li>
+
+        </ul>
+
+    </section>
+
+
+
+    <footer>
+
+        <p>جميع الحقوق محفوظة &copy; 2024 مكتبة مارمينا</p>
+
+    </footer>
+
+</body>
+
+</html>
